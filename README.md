@@ -1,8 +1,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   34 mins         ███████████████████████▓░   94.43 %
-JSON         2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.57 %
+TypeScript   47 mins         ████████████████████████░   95.92 %
+JSON         2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 %
 ```
 
 <!--END_SECTION:waka-->
