@@ -1,7 +1,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+jsonc        14 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.10 %
+TSQL         10 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.29 %
+TOML         9 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.42 %
+JSON         8 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.76 %
+TypeScript   6 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.22 %
 ```
 
 <!--END_SECTION:waka-->
